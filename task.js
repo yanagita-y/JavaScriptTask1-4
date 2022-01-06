@@ -17,3 +17,6 @@ const task = () => {
     prompt("「確認,追加,削除,終了」の４つのいずれかを入力してください");
     task();
 }
+
+showTasks();
+task();
